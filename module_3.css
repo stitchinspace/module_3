@@ -1,0 +1,50 @@
+
+body{
+background-color: #87DDFA;
+}
+#header-nav{
+border: solid 3px black;
+background-color: #87DDFA;
+
+}
+#hdr{
+float: left;
+font-weight: bold;
+font-size: 2em;
+margin-top: -10px;
+color: #143C4A;
+}
+
+#nav-list{
+background-color: #143C4A;
+font-size: 1.5em;
+color: white;
+
+}
+
+#chicken{
+background-color: yellow;
+height: 800px;
+margin-bottom: 10px;
+color: #143C4A;
+font-size: 1.5em;
+}
+
+#beef{
+background-color: orange;
+height: 800px;
+margin-bottom: 10px;
+color: #143C4A;
+font-size: 1.5em;
+}
+
+#sushi{
+background-color: #49F24C;
+height: 800px;
+color: #143C4A;
+font-size: 1.5em;
+}
+
+#blank{
+height: 300px;
+}
